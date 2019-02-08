@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Day_0_Mean_Medium_Mode
 {
-    class Program
+    class MeanMediumMode
     {
         public static void Main(string[] args)
         {
+            // https://www.hackerrank.com/challenges/s10-basic-statistics/tutorial
+
             int numbers = Convert.ToInt32(Console.ReadLine());
             int[] numberArray = new int[numbers];
             string numarray = Console.ReadLine();
