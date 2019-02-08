@@ -1,0 +1,6 @@
+C:\Users\sujithkumar.pallapat\Documents\Visual Studio 2015\Projects\HackersRank\Statistics\Day 0 Mean Medium Mode\Day 0 Mean Medium Mode\bin\Debug\Day 0 Mean Medium Mode.exe.config
+C:\Users\sujithkumar.pallapat\Documents\Visual Studio 2015\Projects\HackersRank\Statistics\Day 0 Mean Medium Mode\Day 0 Mean Medium Mode\bin\Debug\Day 0 Mean Medium Mode.exe
+C:\Users\sujithkumar.pallapat\Documents\Visual Studio 2015\Projects\HackersRank\Statistics\Day 0 Mean Medium Mode\Day 0 Mean Medium Mode\bin\Debug\Day 0 Mean Medium Mode.pdb
+C:\Users\sujithkumar.pallapat\Documents\Visual Studio 2015\Projects\HackersRank\Statistics\Day 0 Mean Medium Mode\Day 0 Mean Medium Mode\obj\Debug\Day 0 Mean Medium Mode.csprojResolveAssemblyReference.cache
+C:\Users\sujithkumar.pallapat\Documents\Visual Studio 2015\Projects\HackersRank\Statistics\Day 0 Mean Medium Mode\Day 0 Mean Medium Mode\obj\Debug\Day 0 Mean Medium Mode.exe
+C:\Users\sujithkumar.pallapat\Documents\Visual Studio 2015\Projects\HackersRank\Statistics\Day 0 Mean Medium Mode\Day 0 Mean Medium Mode\obj\Debug\Day 0 Mean Medium Mode.pdb
