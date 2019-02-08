@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 0 Mean Medium Mode", "Day 0 Mean Medium Mode\Day 0 Mean Medium Mode.csproj", "{F853757A-932B-4305-99A5-1891B119D187}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 0 Mean Medium Mode", "Day 0 Mean Medium Mode\Day 0 Mean Medium Mode\Day 0 Mean Medium Mode.csproj", "{F853757A-932B-4305-99A5-1891B119D187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 0 Weighted Mean", "..\Day 1\Day 0 Weighted Mean.csproj", "{0B426785-2F47-43D8-A9A2-AC8C24F7FFB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 0 Weighted Mean", "Day 1\Day 0 Weighted Mean.csproj", "{0B426785-2F47-43D8-A9A2-AC8C24F7FFB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 Standard Deviation", "..\Day 1 Standard Deviation\ConsoleApplication1\Day 1 Standard Deviation.csproj", "{5E95914E-F418-4357-A160-A7E78C986EEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 Standard Deviation", "Day 1 Standard Deviation\ConsoleApplication1\Day 1 Standard Deviation.csproj", "{5E95914E-F418-4357-A160-A7E78C986EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
